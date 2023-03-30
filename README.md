@@ -1,6 +1,10 @@
 # Build Spring boot JAR:
 ./gradlew bootJar
 
+# TODO:
+1. Refactor to remove hard coding of urls to application.properties
+2. Add unit tests for dao and service layers
+
 
 # Coding Challenge
 
