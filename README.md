@@ -1,9 +1,10 @@
 # Build Spring boot JAR:
 ./gradlew bootJar
 
-# TODO:
+# Further refinement:
 1. Refactor to remove hard coding of urls to application.properties
 2. Add unit tests for dao and service layers
+3. Add provision to monitoring through Datadog or prometheus grafana dashboards by pushing metrics
 
 
 # Coding Challenge
